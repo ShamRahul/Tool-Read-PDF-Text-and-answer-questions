@@ -31,7 +31,7 @@ This project serves as a quick prototyping tool for reading PDF or TXT files and
 3. **Submit:** Submit the form to get the response based on the uploaded document.
 
 ## 🙏 Acknowledgements
-Special thanks to the creators of LangChain, OpenAI, Streamlit, and PyMuPDF for their amazing libraries and frameworks.
+Special thanks to the creators of LangChain, OpenAI, Streamlit, and PyMuPDF for their amazing libraries, frameworks and engaging blogs.
 
 ## 🤝 Contributing
 Feel free to fork the project, make changes, and open a pull request if you think your changes should be included in the main project.
