@@ -1,4 +1,4 @@
-# 🦜🔗 PDF or TXT File Reader and Query Resolver
+# 🦜🔗 LLM- PDF or TXT File Reader and Query Resolver
 
 This project serves as a quick prototyping tool for reading PDF or TXT files and resolving queries based on the uploaded document, leveraging the power of OpenAI, LangChain, and Streamlit. It is designed to be user-friendly, allowing users to easily upload documents and receive relevant responses to their queries, making it a valuable tool for those looking to experiment with document processing and query resolution models.
 
